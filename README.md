@@ -1,6 +1,9 @@
 # Typing_test
-Project Timed Typing Test App
-Purpose: In this project you are going to create the functionality for a timed typing test app.</br>
+<strong>Project Timed Typing Test App</strong>
+
+
+### Purpose:
+This project is about to create the functionality for a timed typing test app.</br>
 The purpose of this project is to make sure you have an understanding of JavaScript objects,</br>
 functions, click events, event listeners, and changing DOM elements.</br>
 Requirements: To complete this project you will add to the starter code provided. You may use</br>
@@ -8,6 +11,8 @@ glitch or any editor that you prefer. For this project you will not use the JQue
 the need to use it we can discuss it in class. You may edit the structure of the provided HTML</br>
 and CSS to better fit your preferred style. You may use lecture slides and the past hw’s for</br>
 sample code but make sure to make it your own.</br>
+
+
 <ul>
 Functionality:
 <li>Run a standard minute/second/hundredths timer</li>
